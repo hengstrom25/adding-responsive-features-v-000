@@ -81,5 +81,7 @@
     padding: 60px;
   }
   
-  #social
+  #social {
+    top: 60px;
+  }
   
